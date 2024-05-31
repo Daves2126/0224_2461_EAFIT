@@ -1,0 +1,6 @@
+boto3
+httpx
+pandas
+nltk
+boto3-stubs[sqs]
+google-generativeai

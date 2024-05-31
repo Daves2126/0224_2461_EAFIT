@@ -1,0 +1,4 @@
+boto3
+httpx
+pandas
+google-generativeai
